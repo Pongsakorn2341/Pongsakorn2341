@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Pongsakorn2341
-- 👀 I’m interested in javascript, react native, nodejs, 
-- 📫 How to reach me 
+- 👀 I’m interested in javascript, react native, nodejs,
+- 📫 How to reach me
 - facebook: Pongsakorn PS
 - email : meepanda2341@gmail.com
+<br />
 
 ### Languages and Tools:
 
@@ -22,12 +23,10 @@
 
 <br />
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pongsakorn2341)](https://github.com/Pongsakorn2341/github-readme-stats)
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Pongsakorn2341&count_private=true&title_color=95a5a6&icon_color=#95a5a6&text_color=0C2233&custom_title=Aleks+Popovic%27s+GitHub+Stats&show_icons=true"
-/>
 <!---
 Pongsakorn2341/Pongsakorn2341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Pongsakorn2341&show_icons=true&theme=radical)"
+/>
 --->

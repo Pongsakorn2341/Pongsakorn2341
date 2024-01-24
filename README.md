@@ -22,18 +22,22 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pongsakorn2341)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"> -->
 <p align="center">
+  <h3 align="center">Languages</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,js,ts,css,html,php,py,solidity&perline=9" />
   </a>
+  <h3 align="center">Frameworks, libs & tools</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=next,vite,nestjs,nodejs,django,flask,graphql,jquery,laravel,materialui,react,redux,spring,bootstrap,tailwind,prisma&perline=8" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,gradle,figma,postman,bash,androidstudio,powershell,linux&perline=8" />
   </a>
+  <h3 align="center">Databases</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase&perline=8" />
   </a>
+  <h3 align="center">Cloud & Deployment</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,heroku,gcp,aws,&perline=8" />
   </a>
